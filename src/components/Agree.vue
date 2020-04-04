@@ -11,6 +11,8 @@
     <div class="tu">
       <img src="../assets/images/yes.png" alt=""/>
       <p>您的拜访已经通过审核</p>
+
+      
     </div>
     <p class="foot">本页面技术由易渡提供<br>如有疑义 请致电<a :href="'tel:' + 15397031258">15397031258</a></p>
   </div>
